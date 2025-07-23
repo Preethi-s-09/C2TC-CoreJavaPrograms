@@ -1,5 +1,5 @@
 //Demonstration of simple java program
-package com.tnsif.dayone;
+package dayone;
 
 public class FirstProgram {
 	public static void main(String[] args) {

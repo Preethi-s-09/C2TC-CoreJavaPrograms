@@ -1,5 +1,5 @@
 //Program to demonstrate for each loop
-package com.tnsif.daytwo;
+package daytwo;
 public class ForEachLoopDemo {
 	public static void main(String[] args) {
 		int a[]= {10,20,30,40,50};	

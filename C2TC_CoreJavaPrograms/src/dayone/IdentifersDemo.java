@@ -1,5 +1,5 @@
 //Program to demonstrate identifiers 
-package com.tnsif.dayone;
+package dayone;
 public class IdentifersDemo {
 	public static void main(String[] args) {
 		// variable declaration - Invalid Identifier Examples

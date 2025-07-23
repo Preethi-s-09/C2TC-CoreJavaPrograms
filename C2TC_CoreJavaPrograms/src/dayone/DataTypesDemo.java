@@ -1,5 +1,5 @@
 //Program to demonstrate Data types
-package com.tnsif.dayone;
+package dayone;
 
 
 public class DataTypesDemo {

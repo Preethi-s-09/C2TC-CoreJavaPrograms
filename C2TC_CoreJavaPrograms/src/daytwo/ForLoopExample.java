@@ -1,5 +1,5 @@
 //Program to demonstrate for loop
-package com.tnsif.daytwo;
+package daytwo;
 
 public class ForLoopExample {
 	public static void main(String[] args) 

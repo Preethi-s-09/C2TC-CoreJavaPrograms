@@ -1,5 +1,5 @@
 //Program to demonstrate decision making operators
-package com.tnsif.daytwo;
+package daytwo;
 
 public class DecisionMakingWithOperators {
 	public static void main(String[] args) {

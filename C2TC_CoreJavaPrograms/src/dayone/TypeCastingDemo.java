@@ -1,5 +1,5 @@
 //Program to demonstrate type casting between primitive types
-package com.tnsif.dayone;
+package dayone;
 
 public class TypeCastingDemo {
 

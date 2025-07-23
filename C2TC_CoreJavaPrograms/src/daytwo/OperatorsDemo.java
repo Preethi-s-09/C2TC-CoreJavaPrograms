@@ -1,5 +1,5 @@
 //Program to demonstrate  different operators(ternary,airthmetic,pre/post incrementation/decrementation) in java
-package com.tnsif.daytwo;
+package daytwo;
 
 public class OperatorsDemo {
 	public static void main(String args[]) {
