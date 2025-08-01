@@ -1,5 +1,4 @@
 package daythirteen;
-
 public class UsingRunnable implements Runnable {
 	Thread thread;
 	int high, low;
